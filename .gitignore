@@ -1,0 +1,11 @@
+.cache/
+.qt/
+build/
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+src/CMakeFiles/
+src/cmake_install.cmake
+src/Makefile
+src/mpd-client_autogen/
